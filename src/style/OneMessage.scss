@@ -1,0 +1,46 @@
+.user-connect {
+  display: flex;
+  justify-content: center;
+  span {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.my-message {
+  width: 140px;
+  margin-left: auto;
+    div {
+      background-color: rgb(65, 68, 255);
+      color: #FFF;
+      max-width: 120px;
+      margin: 5px;
+      padding: 5px 5px 5px 7px;
+      height: auto;
+      word-wrap: break-word;
+      text-align: left;
+      border-radius: 15px;
+    }
+    span {
+        margin-left: 5px;
+    }
+}
+
+.another-message {
+    width: 140px;
+      div {
+        background-color: rgb(119, 119, 124);
+        color: #FFF;
+        max-width: 120px;
+        margin: 5px;
+        padding: 5px 5px 5px 7px;
+        height: auto;
+        word-wrap: break-word;
+        text-align: left;
+        border-radius: 15px;
+      }
+      span {
+          margin-left: 5px;
+      }
+}
